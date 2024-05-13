@@ -9,6 +9,7 @@
 html,
 body {
   min-height: 100%;
+  overflow: hidden;
 }
 
 img {
@@ -25,6 +26,8 @@ ul {
 body {
   font-family: "Lato", sans-serif;
   overflow-x: hidden;
+  /* position: fixed; */
+  /* height: 100%; */
 }
 
 
