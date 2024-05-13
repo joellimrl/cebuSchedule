@@ -21,7 +21,7 @@
         "icon": "hotel"
       },
       {
-        "time": "7 pm",
+        "time": "7.00 pm",
         "text": "Dinner time",
         "icon": "food"
       }
@@ -33,7 +33,7 @@
     "date": "3 June 2024",
     "items": [
       {
-        "time": "10 am",
+        "time": "10.00 am",
         "text": "Wake up for breakfast",
         "icon": "food"
       },
@@ -50,7 +50,7 @@
     "date": "4 June 2024",
     "items": [
       {
-        "time": "10 am",
+        "time": "10.00 am",
         "text": "Wake up for breakfast",
         "icon": "food"
       }
@@ -62,7 +62,7 @@
     "date": "5 June 2024",
     "items": [
       {
-        "time": "10 am",
+        "time": "10.00 am",
         "text": "Wake up for breakfast",
         "icon": "food"
       }
@@ -74,7 +74,7 @@
     "date": "6 June 2024",
     "items": [
       {
-        "time": "10 am",
+        "time": "10.00 am",
         "text": "Wake up for breakfast",
         "icon": "food"
       }
@@ -86,7 +86,7 @@
     "date": "7 June 2024",
     "items": [
       {
-        "time": "10 am",
+        "time": "10.00 am",
         "text": "Wake up for breakfast",
         "icon": "food"
       }
@@ -98,7 +98,7 @@
     "date": "8 June 2024",
     "items": [
       {
-        "time": "10 am",
+        "time": "10.00 am",
         "text": "Wake up for breakfast",
         "icon": "food"
       }
@@ -110,17 +110,17 @@
     "date": "9 June 2024",
     "items": [
       {
-        "time": "10 am",
+        "time": "10.00 am",
         "text": "Wake up for breakfast",
         "icon": "food"
       },
       {
-        "time": "12 pm",
+        "time": "12.00 pm",
         "text": "Check out from Crimson",
         "icon": "hotel"
       },
       {
-        "time": "1 pm",
+        "time": "1.00 pm",
         "text": "Grab some lunch before heading to airport",
         "icon": "food"
       },
