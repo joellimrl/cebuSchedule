@@ -113,9 +113,7 @@ function loadScrollify() {
       // console.log('🚀 ~ before ~ ref:', ref);
 
       if (ref !== 'footer') {
-        setTimeout(function () {
-          elements.sectionCard.addClass('flipInY');
-        }, 100);
+        elements.sectionCard.addClass('fadeIn');
       }
 
       elements.navigateLink.parent().siblings().find('.js--navigate-link').removeClass('is--active');
@@ -125,7 +123,7 @@ function loadScrollify() {
       var ref = sections[index].data('section-name');
 
       if (ref !== 'footer') {
-        elements.sectionCard.removeClass('flipInY');
+        elements.sectionCard.removeClass('fadeIn');
       }
     },
     afterRender() {} });
