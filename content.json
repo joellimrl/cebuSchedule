@@ -1,0 +1,139 @@
+[
+  {
+    "indexText": "First",
+    "isActive": true,
+    "title": "Away we go!",
+    "date": "2 June 2024",
+    "items": [
+      {
+        "time": "10.55 am",
+        "text": "Take off from Changi T2",
+        "icon": "airplane"
+      },
+      {
+        "time": "2.30 pm",
+        "text": "Land at Mactan Airport T2",
+        "icon": "airplane"
+      },
+      {
+        "time": "3.30 pm",
+        "text": "Check into Crimson resort",
+        "icon": "hotel"
+      },
+      {
+        "time": "7 pm",
+        "text": "Dinner time",
+        "icon": "food"
+      }
+    ]
+  },
+  {
+    "indexText": "Second",
+    "title": "First day in Cebu!",
+    "date": "3 June 2024",
+    "items": [
+      {
+        "time": "10 am",
+        "text": "Wake up for breakfast",
+        "icon": "food"
+      },
+      {
+        "time": "??",
+        "text": "Water sports! Parasailing, Jetski, Scuba",
+        "icon": "scuba"
+      }
+    ]
+  },
+  {
+    "indexText": "Third",
+    "title": "Rest day after doing nothing",
+    "date": "4 June 2024",
+    "items": [
+      {
+        "time": "10 am",
+        "text": "Wake up for breakfast",
+        "icon": "food"
+      }
+    ]
+  },
+  {
+    "indexText": "Fourth",
+    "title": "Time to work out",
+    "date": "5 June 2024",
+    "items": [
+      {
+        "time": "10 am",
+        "text": "Wake up for breakfast",
+        "icon": "food"
+      }
+    ]
+  },
+  {
+    "indexText": "Fifth",
+    "title": "Thursdays",
+    "date": "6 June 2024",
+    "items": [
+      {
+        "time": "10 am",
+        "text": "Wake up for breakfast",
+        "icon": "food"
+      }
+    ]
+  },
+  {
+    "indexText": "Sixth",
+    "title": "TGIF",
+    "date": "7 June 2024",
+    "items": [
+      {
+        "time": "10 am",
+        "text": "Wake up for breakfast",
+        "icon": "food"
+      }
+    ]
+  },
+  {
+    "indexText": "Seventh",
+    "title": "Almost the last day",
+    "date": "8 June 2024",
+    "items": [
+      {
+        "time": "10 am",
+        "text": "Wake up for breakfast",
+        "icon": "food"
+      }
+    ]
+  },
+  {
+    "indexText": "Eighth",
+    "title": "Time to go home :(",
+    "date": "9 June 2024",
+    "items": [
+      {
+        "time": "10 am",
+        "text": "Wake up for breakfast",
+        "icon": "food"
+      },
+      {
+        "time": "12 pm",
+        "text": "Check out from Crimson",
+        "icon": "hotel"
+      },
+      {
+        "time": "1 pm",
+        "text": "Grab some lunch before heading to airport",
+        "icon": "food"
+      },
+      {
+        "time": "3.45 pm",
+        "text": "Take off from Mactan International",
+        "icon": "airplane"
+      },
+      {
+        "time": "7.15 pm",
+        "text": "Land at Changi T2",
+        "icon": "airplane"
+      }
+    ]
+  }
+]
