@@ -82,6 +82,11 @@
         "time": "10.00 am",
         "text": "Wake up for breakfast",
         "icon": "food"
+      },
+      {
+        "time": "?",
+        "text": "Cebu ocean park",
+        "icon": "food"
       }
     ]
   },
